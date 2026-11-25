@@ -1,0 +1,6 @@
+{
+  "name": "Shri Surya Solar - B2B Solar Catalog & Supplier",
+  "description": "Reliable solar solutions, high-efficiency solar panels, inverters, batteries, and complete solar kits for homes, businesses, and industries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
